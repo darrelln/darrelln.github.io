@@ -6,7 +6,7 @@ title:              darrelln
 tagline:            darrelln.github.io
 url:                https://darrelln.github.io
 paginate:           1
-baseurl:            
+baseurl:            https://darrelln.github.io
 
 # Navigation
 pages_list:
