@@ -10,7 +10,7 @@ baseurl:            https://darrelln.github.io
 
 # Navigation
 pages_list:
-  Archive:          '/archive/'
+  Archive:          '/archive'
 
 # Assets
 #
