@@ -74,6 +74,11 @@ Add the following to **flaskapp.conf**:
 </VirtualHost>
 {% endhighlight %}
 
+To check the configuraion is valid, use:
+{% highlight text %}
+apachectl configtest
+{% endhighlight %}
+
 Lastly, disable the default Apache site and enable the Flask app. Once the app has been enabled, check Apache's **sites-enabled** directory to confirm it contains a symlink and the app has indeed been enabled. Reload the Apache service and everything should be good to go:
 {% highlight text %}
 sudo a2dissite 000-default
