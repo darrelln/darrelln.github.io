@@ -8,7 +8,7 @@ permalink:    ubuntu-server-virtualbox-guest-additions
 In order to use **VirtualBox shared folders** with **Ubuntu Server** first install **VirtualBox Guest Additions**. For this to work, a few additional modules are required:
 
 {% highlight text %}
-sudo apt install -y build-essential linux-headers-generic linux-headers-$(uname -r)
+sudo apt install -y dkms build-essential linux-headers-generic linux-headers-$(uname -r)
 {% endhighlight %}
 
 Once the Linux headers have been installed, mount the Guest Additions CD and run:
