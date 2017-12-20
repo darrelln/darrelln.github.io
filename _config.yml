@@ -5,12 +5,13 @@ permalink:          pretty
 title:              darrelln
 tagline:            darrelln.github.io
 url:                https://darrelln.github.io
-paginate:           1
-baseurl:            https://darrelln.github.io
+paginate:           15
+baseurl:            
 
 # Navigation
 pages_list:
   Archive:          '/archive'
+  Disclaimer:       '/disclaimer'
 
 # Assets
 #
