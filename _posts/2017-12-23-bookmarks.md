@@ -28,9 +28,9 @@ permalink:  bookmarks
 [Sans Penetration Testing](https://pen-testing.sans.org/blog)<br>
 [Medium Security](https://medium.com/search?q=security)<br>
 
-**Privacy**
+**Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
-[GreyCoder](https://greycoder.com)
+[GreyCoder](https://greycoder.com)<br>
 
 **IT News and Security**<br>
 [Ars Technica](https://arstechnica.com/information-technology/)<br>
