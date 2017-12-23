@@ -5,5 +5,5 @@ tags:       articles cyber cyber-explained
 permalink:  infosec-privacy-articles
 ---
 
-**Privacy**
+**Privacy**<br>
 [Privacy Search Engines 2017 Group Review (BestVpn.com)](https://www.bestvpn.com/privacy-search-engines/)<br>
