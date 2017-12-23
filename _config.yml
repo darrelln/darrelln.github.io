@@ -11,6 +11,7 @@ baseurl:
 # Navigation
 pages_list:
   Archive:          '/archive'
+  Categories:       '/categories'
   Disclaimer:       '/disclaimer'
 
 # Assets
