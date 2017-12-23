@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Bookmarks
-tags:       bookmarks
+tags:       bookmarks cyber cyber-explained
 permalink:  bookmarks
 ---
 
