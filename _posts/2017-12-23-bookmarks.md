@@ -32,7 +32,7 @@ permalink:  bookmarks
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
 [GreyCoder](https://greycoder.com)<br>
 [StartPage](https://startpage.com)<br>
-[Ixquick (.eu))](https://ixquick.eu)<br>
+[Ixquick.eu](https://ixquick.eu)<br>
 [SearX](https://searx.me)<br>
 [Disconnect Private Search](https://disconnect.me/search)<br>
 
