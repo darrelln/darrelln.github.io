@@ -31,6 +31,12 @@ permalink:  bookmarks
 **Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
 [GreyCoder](https://greycoder.com)<br>
+[StartPage](https://startpage.com)<br>
+[Ixquick (.eu))](https://ixquick.eu)<br>
+[SearX](https://searx.me)<br>
+[Disconnect Private Search](https://disconnect.me/search)<br>
+<br>
+[Article: Privacy Search Engines 2017 Group Review (BestVpn.com)](https://www.bestvpn.com/privacy-search-engines/)
 
 **IT News and Security**<br>
 [Ars Technica](https://arstechnica.com/information-technology/)<br>
