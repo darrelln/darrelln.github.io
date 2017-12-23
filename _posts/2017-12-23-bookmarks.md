@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:      Bookmarks
-tags:       bookmarks cyber cyber-explained
-permalink:  bookmarks
+layout:       post
+title:        Bookmarks
+permalink:    bookmarks
+tags:         bookmarks cyber cyber-explained
+categories:   [cyber-explained]
 ---
 
 **InfoSec**<br>

@@ -1,8 +1,9 @@
 ---
 layout:       post
 title:        VirtualBox Shared Folders on Ubuntu Server 17.10
-tags:         ubuntu virtualbox
 permalink:    ubuntu-server-virtualbox-shared-folders
+tags:         ubuntu virtualbox
+categories:   [web-dev, virtualbox]
 ---
 
 Information courtesy of [this thread](https://forums.virtualbox.org/viewtopic.php?f=3&t=38891).

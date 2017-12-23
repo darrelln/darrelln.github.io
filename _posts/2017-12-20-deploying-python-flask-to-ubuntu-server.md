@@ -1,8 +1,9 @@
 ---
 layout:       post
 title:        Deploying Python Flask to Ubuntu Server 17.10
-tags:         python python-web flask 
 permalink:    deploying-python-flask-to-ubuntu-server-17
+tags:         python python-web flask
+categories:   [web-dev]
 ---
 
 <p align="center" class="warn">WARNING: PLEASE DO NOT USE THIS IN PRODUCTION</p>

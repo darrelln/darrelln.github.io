@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:      InfoSec, Privacy and Cyber Articles Worth a Read
-tags:       articles cyber cyber-explained
-permalink:  infosec-privacy-articles
+layout:       post
+title:        InfoSec, Privacy and Cyber Articles Worth a Read
+permalink:    infosec-privacy-articles
+tags:         articles cyber cyber-explained
+categories:   [cyber-explained]
 ---
 
 **Privacy**<br>

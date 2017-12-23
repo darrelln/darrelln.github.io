@@ -1,8 +1,9 @@
 ---
 layout:       post
 title:        Installing VirtualBox Guest Additions on Ubuntu Server 17.10
-tags:         ubuntu virtualbox
 permalink:    ubuntu-server-virtualbox-guest-additions
+tags:         ubuntu virtualbox
+categories:   [web-dev, virtualbox]
 ---
 
 In order to use **VirtualBox shared folders** with **Ubuntu Server** first install **VirtualBox Guest Additions**. For this to work, a few additional modules are required:

@@ -1,8 +1,9 @@
 ---
 layout:       post
 title:        Assigning a Static IP on Ubuntu Server 17.10
-tags:         ubuntu netplan 
 permalink:    ubuntu-netplan-static-ip
+tags:         ubuntu netplan 
+categories:   [web-dev]
 ---
 
 The latest version of Ubuntu Server now uses **NetPlan** to configure networking. To assign a static IP address, backup the original file and open the `.yaml` in nano:
