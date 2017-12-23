@@ -5,8 +5,6 @@ tags:       bookmarks cyber cyber-explained
 permalink:  bookmarks
 ---
 
-CTRL+click to open in new tab<br>
-
 **InfoSec**<br>
 [Krebs on Security](https://krebsonsecurity.com)<br>
 [Schneier on Security](https://www.schneier.com)<br>
