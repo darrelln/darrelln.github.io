@@ -18,7 +18,7 @@ permalink:  bookmarks
 [US-CERT alerts](https://www.us-cert.gov/ncas/alerts)<br>
 [circl.lu](https://www.circl/lu/news/)<br>
 [NIST Cyber](https://www.nist.gov/topics/cybersecurity)<br>
-[threat post](https://threatpost.com)<br>
+[Threat Post](https://threatpost.com)<br>
 [ProtonMail Blog](https://protonmail.com/blog/)<br>
 [Malwarebytes Blog](https://blog.malwarebytes.com)<br>
 [Naked Security by Sophos](https://nakedsecurity.sophos.com)<br>
