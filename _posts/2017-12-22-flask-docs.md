@@ -2,8 +2,8 @@
 layout:       post
 title:        Flask Documentation Reminders
 permalink:    flask-docs
-tags:         flask flask-docs
-categories:   [web-dev]
+tags:
+  - web-dev
 ---
 
 [Welcome to Flask and User's Guide](http://flask.pocoo.org/docs/0.12)<br>

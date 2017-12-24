@@ -2,8 +2,8 @@
 layout:       post
 title:        Changing Apache2's Default Port
 permalink:    ubuntu-changing-apache-port
-tags:         ubuntu apache2
-categories:   [web-dev]
+tags:
+  - ubuntu
 ---
 
 To change the port Apache2 listens on:

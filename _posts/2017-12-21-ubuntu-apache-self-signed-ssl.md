@@ -2,8 +2,9 @@
 layout:       post
 title:        Self-signed SSL Certificates for Apache2
 permalink:    ubuntu-apache-self-signed-ssl
-tags:         ubuntu apache2 ssl
-categories:   [web-dev]
+tags:
+  - ubuntu
+  - web-dev
 ---
 
 <p align="center" class="warn">WARNING: PLEASE DO NOT USE THIS IN PRODUCTION</p>

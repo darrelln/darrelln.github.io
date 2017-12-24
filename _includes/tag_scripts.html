@@ -1,0 +1,10 @@
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".tag").click(function(){
+      $(this).parent()
+             .children("#tag-posts")
+             .slideToggle("fast");
+      return false;
+    });  
+  });
+</script>

@@ -2,8 +2,9 @@
 layout:       post
 title:        Getting Started with GitHub Pages
 permalink:    getting-started-with-github-pages
-tags:         getting-started github-pages jekyll poole
-categories:   [getting-started, github-pages]
+tags:
+  - getting-started
+  - web-dev
 ---
 
 **GitHub Pages** provides **free web hosting** for blogs and websites. To get started, create a new repository in your GitHub account in the format *yourusername.github.io* and any changes pushed to the repo will appear on your web site.

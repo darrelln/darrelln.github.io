@@ -2,8 +2,9 @@
 layout:       post
 title:        Bookmarks
 permalink:    bookmarks
-tags:         bookmarks cyber cyber-explained
-categories:   [cyber-explained]
+tags:
+  - cyber
+  - cyber-explained
 ---
 
 **InfoSec**<br>

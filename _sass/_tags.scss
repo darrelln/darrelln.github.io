@@ -1,0 +1,25 @@
+.tag {
+  color: #ffffff;
+  background-color: #000000;
+  padding-top: 5px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 0.4em;
+  line-height: 2.3em;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.tag-container {
+  display: inline-block;
+}
+
+.tag-posts {
+  width: 100%;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}

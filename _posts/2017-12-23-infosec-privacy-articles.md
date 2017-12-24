@@ -2,8 +2,9 @@
 layout:       post
 title:        InfoSec, Privacy and Cyber Articles Worth a Read
 permalink:    infosec-privacy-articles
-tags:         articles cyber cyber-explained
-categories:   [cyber-explained]
+tags:
+  - cyber
+  - cyber-explained
 ---
 
 **Privacy**<br>
