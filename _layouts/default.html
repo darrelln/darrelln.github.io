@@ -37,5 +37,17 @@
        ga('send', 'pageview');
      </script>
     {% endif %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $(".tag").click(function(){
+          $(this).parent()
+                 .children("#tag-posts")
+                 .slideToggle("fast");
+          return false;
+        });  
+      });
+    </script>
   </body>
 </html>

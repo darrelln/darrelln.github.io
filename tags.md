@@ -16,4 +16,3 @@ permalink:    /tags
     {% include tag.html %}
   {% endfor %}
 </div>
-{% include tag_scripts.html %}
