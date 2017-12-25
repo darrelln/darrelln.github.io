@@ -1,19 +1,14 @@
 .tag {
   color: #ffffff;
   background-color: #000000;
-  padding-top: 5px;
-  padding-bottom: 8px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 5px 15px 8px 15px;
   white-space: nowrap;
   overflow: hidden;
 }
 
 .tag-container {
   display: inline-block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
+  margin: 10px 10px 10px 0;
 }
 
 .tag-posts {
