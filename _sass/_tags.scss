@@ -2,17 +2,18 @@
   color: #ffffff;
   background-color: #000000;
   padding-top: 5px;
-  padding-bottom: 9px;
+  padding-bottom: 8px;
   padding-left: 15px;
   padding-right: 15px;
-  margin-right: 0.4em;
-  line-height: 2.3em;
   white-space: nowrap;
   overflow: hidden;
 }
 
 .tag-container {
   display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
 }
 
 .tag-posts {
