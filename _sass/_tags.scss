@@ -1,20 +1,41 @@
-.tag {
-  color: #ffffff;
-  background-color: #000000;
-  padding: 8px 15px 10px 15px;
+.tag-container,
+.tag-posts,
+.tag-post-date,
+.tag-post {
+  display: block;
   white-space: nowrap;
   overflow: hidden;
 }
 
 .tag-container {
   display: inline-block;
-  margin: 12px 10px 12px 0;
+}
+
+.tag {
+  background-color: #000000;
+  padding: 8px 15px 10px 15px;
+}
+
+.tag-link {
+  color: #ffffff;
 }
 
 .tag-posts {
   width: 100%;
-  display: block;
-  padding: 15px 15px 15px 0;
+}
+
+.tag-post {
+  margin: 3px 15px 0 12px;
+}
+
+.tag-post-title {
+  font-weight: $weight-heavy;
+}
+
+.tag-post-date {
+  color: $text-color;
+  font-size: .7em;
+  font-weight: $weight-light;
 }
 
 .hidden {
