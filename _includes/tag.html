@@ -1,8 +1,6 @@
 <div class="tag-container">
-  <div class="tag">
-    <a class="tag-link" href="#">{{ tag }}</a>
-  </div>
-  <div id="tag-posts" class="tag-posts hidden" style="display: none">
+  <a class="tag-link" href="#">{{ tag }}</a>
+  <div id="tag-posts" class="tag-posts hidden">
   {% capture posts_for_tag %}
   {%- for post in site.posts -%}
     {% if post.tags contains tag %}
