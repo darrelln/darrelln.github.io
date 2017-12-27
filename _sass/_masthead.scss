@@ -15,7 +15,6 @@
   display: inline-block;
 
   a {
-    text-decoration: none;
     color: inherit;
   }
 
@@ -28,18 +27,4 @@
     font-size: 75%;
     font-weight: $weight-light;
   }
-}
-
-.masthead-item {
-  margin-left: 1rem;
-  color: $text-color;
-  display: inline-block;
-
-  a {
-    font-size: 1.5em;
-  }
-}
-
-.underline {
-  text-decoration: underline;
 }

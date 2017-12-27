@@ -48,14 +48,6 @@ a {
   }
 }
 
-.no-text-decoration a {
-    // `:focus` is linked to `:hover` for basic accessibility
-    &:hover,
-    &:focus {
-      text-decoration: none;
-    }
-}
-
 img {
   display: block;
   max-width: 100%;

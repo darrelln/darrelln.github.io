@@ -8,11 +8,11 @@
     <div class="container content">
       <header class="masthead">
         <h2 class="masthead-title">
-          <a id="Home" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           {% for page in site.pages_list %}
           &nbsp;&nbsp;&nbsp;
           <span>
-            <a id="{{ page[0] }}" href="{{ page[1] }}">{{ page[0] }}</a>
+            <a href="{{ page[1] }}">{{ page[0] }}</a>
           </span>
           {% endfor %}
         </h2>
@@ -40,20 +40,6 @@
           $(this).parent().children("#tag-posts").slideToggle("fast");
           return false;
         });
-      });
-    </script>
-
-    <script>
-      $(document).ready(function(){
-        if ("{{ page.title }}" == "Tags") {
-          $("#Tags").css("text-decoration", "underline");
-        } 
-        else if ("{{ page.title }}" == "Disclaimer") {
-          $("#Disclaimer").css("text-decoration", "underline");
-        }
-        else {
-          $("#Home").css("text-decoration", "underline");
-        }
       });
     </script>
 
