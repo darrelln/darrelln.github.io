@@ -21,3 +21,5 @@ With the **Zap** image running in docker, the Zap UI is accessible from a **brow
 {% highlight text %}
 http://localhost:8080/?anonym=true&app=ZAP
 {% endhighlight %}
+
+**Disclaimer: this post is for educational purposes only.**
