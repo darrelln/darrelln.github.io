@@ -1,10 +1,11 @@
 ---
 layout:       post
-title:        Bookmarks
-permalink:    bookmarks
+title:        InfoSec Bookmarks
+permalink:    infosec-bookmarks
 tags:
   - cyber
   - cyber-explained
+  - bookmarks
 ---
 
 **InfoSec**<br>
