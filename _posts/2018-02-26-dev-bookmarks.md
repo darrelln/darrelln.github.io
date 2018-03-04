@@ -9,7 +9,9 @@ tags:
 ---
 
 # macOS/iOS
-**Cocoa**<br>
-[Cocoa with Love (Matt Gallagher)](http://www.cocoawithlove.com)<br>
+**Cocoa**<br />
+[Cocoa with Love (Matt Gallagher)](http://www.cocoawithlove.com)<br />
 
-
+**Swift**<br />
+[Swift Community Blog](https://swift.org/blog/)<br />
+[Ole Begemann](https://oleb.net)<br />
