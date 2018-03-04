@@ -3,7 +3,7 @@ layout:       post
 title:        Dev Bookmarks
 permalink:    dev-bookmarks
 tags:
-  - osx
+  - macOS
   - dev
   - bookmarks
 ---
