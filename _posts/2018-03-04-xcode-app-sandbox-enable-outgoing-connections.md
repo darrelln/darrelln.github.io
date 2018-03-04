@@ -3,7 +3,7 @@ layout:       post
 title:        Don't Forget to Allow Outgoing Connections!
 permalink:    xcode-app-sandbox-enable-outgoing-connections
 tags:
-  - osx
+  - macOS
   - dev
   - xcode
 ---
