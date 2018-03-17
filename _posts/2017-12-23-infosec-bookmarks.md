@@ -30,6 +30,7 @@ tags:
 [Sans Digital Forensics and Incident Response](https://digital-forensics.sans.org/blog)<br>
 [Sans Penetration Testing](https://pen-testing.sans.org/blog)<br>
 [Medium Security](https://medium.com/search?q=security)<br>
+[SECURELIST](https://securelist.com)<br>
 
 **Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
