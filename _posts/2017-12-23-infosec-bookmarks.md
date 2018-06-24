@@ -32,6 +32,7 @@ tags:
 [Medium Security](https://medium.com/search?q=security)<br>
 [SECURELIST](https://securelist.com)<br>
 [Tripwire's The State of Security ](https://www.tripwire.com/state-of-security/)
+[Smashing Security](https://www.smashingsecurity.com)
 
 **Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
