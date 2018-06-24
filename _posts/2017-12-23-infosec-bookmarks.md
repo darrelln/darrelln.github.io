@@ -31,6 +31,7 @@ tags:
 [Sans Penetration Testing](https://pen-testing.sans.org/blog)<br>
 [Medium Security](https://medium.com/search?q=security)<br>
 [SECURELIST](https://securelist.com)<br>
+[Tripwire's The State of Security ](https://www.tripwire.com/state-of-security/)
 
 **Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
