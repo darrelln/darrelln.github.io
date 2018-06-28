@@ -33,6 +33,10 @@ tags:
 [SECURELIST](https://securelist.com)<br>
 [Tripwire's The State of Security ](https://www.tripwire.com/state-of-security/)
 [Smashing Security](https://www.smashingsecurity.com)
+[We Live Security](https://www.welivesecurity.com)
+[Symantec Blogs / Expert Perspectives](https://wwww.symantec.com/blogs/expert-perspectives)
+[Symantec Blogs / Threat Intelligence](https://wwww.symantec.com/blogs/threat-intelligence)
+[Talos Intelligence](https://blog.talosintelligence.com)
 
 **Privacy**<br>
 [Medium Privacy](https://medium.com/search?q=privacy)<br>
