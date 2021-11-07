@@ -1,3 +1,1 @@
-# Disclaimer
-
-Not to be used for bad.
+Be nice to others.
